@@ -1,8 +1,6 @@
 Elenco controlli pareti interne in cartongesso
 
 
-
-
 Controlli di chiarezza e completezza (CC)
 
 
@@ -11,11 +9,11 @@ Controlli sulla parete:
 - CC_A_01) Verifica che siano indicate le dimensioni della parete (lunghezza, larghezza e altezza).
 Normativa di riferimento: /
 
-- CC_A_02) Verifica che siano indicate le proprietà acustiche della parete.
-Normativa di riferimento: D.P.C.M. 05/12/1997 “Determinazione dei requisiti acustici passivi degli edifici”                                                                        
+- CC_A_02) Verifica che siano indicate le proprietÃ  acustiche della parete.
+Normativa di riferimento: D.P.C.M. 05/12/1997 "Determinazione dei requisiti acustici passivi degli edifici"
 
 - CC_A_03) Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) della parete.
-Normativa di riferimento: EN 13501-1:2018 
+Normativa di riferimento: EN 13501-1:2018
 
 - CC_A_04) Verifica che sia indicata la classe di resistenza al fuoco (REI 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 e 360) della parete.
 Normativa di riferimento: EN 13501-2:2016
@@ -23,19 +21,19 @@ Normativa di riferimento: EN 13501-2:2016
 - CC_A_05) Verifica che sia indicata la resistenza all'urto della parete.
 Normativa di riferimento: ISO 7892:1988
 
-- CC_A_06) Verifica che sia indicata la permeabilità al vapore della parete.
+- CC_A_06) Verifica che sia indicata la permeabilitï¿½ al vapore della parete.
 Normativa di riferimento: EN 12524:2000
 
-- CC_A_07) Verifica che sia indicata la permeabilità all'aria della parete.
+- CC_A_07) Verifica che sia indicata la permeabilitï¿½ all'aria della parete.
 Normativa di riferimento: EN 12114:2000
 
 - CC_A_08) Verifica che sia indicata la resistenza termica della parete.
-Normativa di riferimento: EN 12524:2000 
+Normativa di riferimento: EN 12524:2000
 
 - CC_A_09) Verifica che sia indicato il carico orizzontale lineare massimo applicabile alla parete.
 Normativa di riferimento: D.M. 17.01.2018 (NTC 2018)
 
-- CC_A_10) Verifica che sia indicato che il metodo di posa della parete sarà in conformità alla norma di posa.
+- CC_A_10) Verifica che sia indicato che il metodo di posa della parete sarï¿½ in conformitï¿½ alla norma di posa.
 Normativa di riferimento: UNI 11424:2015
 
 - CC_A_11) Verifica che siano indicate le tolleranze dimensionali in mm della parete.
@@ -45,7 +43,7 @@ Normativa di riferimento: /
 Controlli sulle lastre in cartongesso:
 
 - CC_B_01) Verifica che sia indicato il tipo di lastra (A, D, E, F, H, I, R, P o combinate).
-Normativa di riferimento: EN 520:2004           
+Normativa di riferimento: EN 520:2004
 
 - CC_B_02) Verifica che sia indicato il numero delle lastre.
 Normativa di riferimento: /
@@ -56,23 +54,23 @@ Normativa di riferimento: /
 - CC_B_04) Verifica che sia indicato il peso della lastra.
 Normativa di riferimento: /
 
-- CC_B_05) Verifica che sia la densità della lastra.
+- CC_B_05) Verifica che sia la densitï¿½ della lastra.
 Normativa di riferimento: /
 
 - CC_B_06) Verifica che sia indicato il tipo di bordo della lastra.
-Normativa di riferimento: EN 520:2004           
+Normativa di riferimento: EN 520:2004
 
 - CC_B_07) Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) della lastra.
-Normativa di riferimento: EN 13501-1:2018 
+Normativa di riferimento: EN 13501-1:2018
 
 - CC_B_08) Verifica che sia indicata la classe di resistenza al fuoco (REI 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 e 360) della lastra.
 Normativa di riferimento:  EN 13501-2:2016
 
-- CC_B_09) Verifica che sia indicata la permeabilità al vapore acqueo della lastra.
+- CC_B_09) Verifica che sia indicata la permeabilitï¿½ al vapore acqueo della lastra.
 Normativa di riferimento: EN 12524:2000
 
 - CC_B_10) Verifica che sia indicata la resistenza termica della lastra.
-Normativa di riferimento: EN 12524:2000 
+Normativa di riferimento: EN 12524:2000
 
 - CC_B_11) Verifica che siano indicate le tolleranze dimensionali in mm della lastra.
 Normativa di riferimento: /
@@ -93,12 +91,12 @@ Normativa di riferimento: /
 Normativa di riferimento: /
 
 -CC_C_05) Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) di guide e montanti.
-Normativa di riferimento: EN 13501-1:2018 
+Normativa di riferimento: EN 13501-1:2018
 
 -CC_C_06) Verifica che sia indicato il carico di snervamento di guide e montanti.
 Normativa di riferimento: /
 
--CC_C_07) Verifica che sia indicata la capacità portante di guide e montanti.
+-CC_C_07) Verifica che sia indicata la capacitï¿½ portante di guide e montanti.
 Normativa di riferimento: EN 14195:2014
 
 -CC_C_08) Verifica che siano indicate le tolleranze dimensionali in mm di guide e montanti.
@@ -111,23 +109,23 @@ Controlli sullo strato isolante:
 
 -CC_D_02) Verifica che siano indicate le dimensioni dell'isolante.
 
--CC_D_03) Verifica che sia indicata la densità dell'isolante.
+-CC_D_03) Verifica che sia indicata la densitï¿½ dell'isolante.
 
 -CC_D_04) Verifica che sia indicata la resistenza alla diffusione del vapore dell'isolante.
 
--CC_D_05) Verifica che sia indicata la permeabilità al vapore dell'isolante.
+-CC_D_05) Verifica che sia indicata la permeabilitï¿½ al vapore dell'isolante.
 
 -CC_D_06) Verifica che sia indicata la classe di reazione al fuoco dell'isolante.
 
--CC_D_07) Verifica che siano indicate la conducibilità e la resistenza termica dell'isolante.
+-CC_D_07) Verifica che siano indicate la conducibilitï¿½ e la resistenza termica dell'isolante.
 
 -CC_D_08) Verifica che sia indicato l'assorbimento d'acqua dell'isolante.
 
--CC_D_09) Verifica che sia indicata la permeabilità all'aria dell'isolante.
+-CC_D_09) Verifica che sia indicata la permeabilitï¿½ all'aria dell'isolante.
 
--CC_D_10) Verifica che sia indicata la resistenza a compressione e la comprimibilità dell'isolante.
+-CC_D_10) Verifica che sia indicata la resistenza a compressione e la comprimibilitï¿½ dell'isolante.
 
--CC_D_11) Verifica che siano indicate le proprietà acustiche dell'isolante.
+-CC_D_11) Verifica che siano indicate le proprietï¿½ acustiche dell'isolante.
 
 -CC_D_12) Verifica che siano indicate le tolleranze dimensionali dell'isolante.
 
@@ -138,7 +136,7 @@ Controlli di adeguatezza (AD)
 
 Controlli sulla parete:
 
-- AD_A_01) Verifica che le proprietà acustiche della parete siano adeguate per la classe di ambiente abitativo (A, B, C, D, E, F, G) che delimita.
+- AD_A_01) Verifica che le proprietï¿½ acustiche della parete siano adeguate per la classe di ambiente abitativo (A, B, C, D, E, F, G) che delimita.
 
 - AD_A_02) Verifica che la classe di reazione al fuoco della parete (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.
 
@@ -147,7 +145,7 @@ Controlli sulla parete:
 
 Controlli sulle lastre in cartongesso:
 
-- AD_B_01) Verifica che il tipo di lastra utilizzato (A, D, E, F, H, I, R, P o combinate) sia conforme all'utilizzo previsto. 
+- AD_B_01) Verifica che il tipo di lastra utilizzato (A, D, E, F, H, I, R, P o combinate) sia conforme all'utilizzo previsto.
 
 - AD_B_02) Verifica che la classe di reazione al fuoco della lastra (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.
 
@@ -158,12 +156,12 @@ Controlli su guide e montanti metallici:
 
 - AD_C_01) Verifica che la classe di reazione al fuoco di guide e montanti (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.
 
-- AD_C_02) Verifica che la capacità portante di guide e montanti sia adeguata al peso e al numero delle lastre.
+- AD_C_02) Verifica che la capacitï¿½ portante di guide e montanti sia adeguata al peso e al numero delle lastre.
 
 
 Controlli sullo strato isolante:
 
-- AD_D_01) Verifica che le proprietà acustiche dell'isolante siano adeguate per la classe di ambiente abitativo (A, B, C, D, E, F, G) che la parete delimita.
+- AD_D_01) Verifica che le proprietï¿½ acustiche dell'isolante siano adeguate per la classe di ambiente abitativo (A, B, C, D, E, F, G) che la parete delimita.
 
 - AD_D_02) Verifica che la classe di reazione al fuoco dell'isolante (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.
 
@@ -190,13 +188,3 @@ Controlli su guide e montanti metallici:
 Controlli sullo strato isolante:
 
 - CO_D_01) Verifica che le dimensioni dell'isolante riportate nel capitolato siano coerenti con quelle riportate negli elaborati grafici.
-
-
-
-
-
-
-
-
-
-
