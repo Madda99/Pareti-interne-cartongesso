@@ -67,7 +67,7 @@
 
  Normativa di riferimento: /
 
-- CC_B_05) Verifica che sia la densità della lastra.
+- CC_B_05) Verifica che sia indicata la densità della lastra.
 
  Normativa di riferimento: /
 
