@@ -1,53 +1,68 @@
-# Elenco controlli pareti interne in cartongesso
+# Elenco controlli controsoffitti in cartongesso
 
 ### Controlli di chiarezza e completezza (CC)
 
-###### Controlli sulla parete:
+###### Controlli sul controsoffitto:
 
-- CC_A_01) Verifica che siano indicate le dimensioni della parete (lunghezza, larghezza e altezza).
+- CC_A_01) Verifica che sia indicata la tipologia di contrsoffitto (in aderenza, sospeso, autoportante).
 
  Normativa di riferimento: /
 
-- CC_A_02) Verifica che siano indicate le proprietà acustiche della parete.
+- CC_A_02) Verifica che siano indicate le dimensioni del controsoffitto (lunghezza, larghezza e altezza).
+
+ Normativa di riferimento: / 
+
+- CC_A_03) Verifica che siano indicate le proprietà acustiche della parete.
 
  Normativa di riferimento: D.P.C.M. 05/12/1997 "Determinazione dei requisiti acustici passivi degli edifici"
 
-- CC_A_03) Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) della parete.
+- CC_A_04) Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) della parete.
 
  Normativa di riferimento: EN 13501-1:2018
 
-- CC_A_04) Verifica che sia indicata la classe di resistenza al fuoco (REI 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 e 360) della parete.
+- CC_A_05) Verifica che sia indicata la classe di resistenza al fuoco (REI 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 e 360) della parete.
 
  Normativa di riferimento: EN 13501-2:2016
 
-- CC_A_05) Verifica che sia indicata la resistenza all'urto della parete.
+- CC_A_06) Verifica che sia indicata la resistenza all'urto della parete.
 
  Normativa di riferimento: ISO 7892:1988
 
-- CC_A_06) Verifica che sia indicata la permeabilità al vapore della parete.
+- CC_A_07) Verifica che sia indicata la permeabilità al vapore della parete.
 
  Normativa di riferimento: EN 12524:2000
 
-- CC_A_07) Verifica che sia indicata la permeabilità all'aria della parete.
+- CC_A_08) Verifica che sia indicata la permeabilità all'aria della parete.
 
  Normativa di riferimento: EN 12114:2000
 
-- CC_A_08) Verifica che sia indicata la resistenza termica della parete.
+- CC_A_09) Verifica che sia indicata la resistenza termica della parete.
 
  Normativa di riferimento: EN 12524:2000
 
-- CC_A_09) Verifica che sia indicato il carico orizzontale lineare massimo applicabile alla parete.
+- CC_A_10) Verifica che sia indicato il carico orizzontale lineare massimo applicabile alla parete.
 
  Normativa di riferimento: D.M. 17.01.2018 (NTC 2018)
 
-- CC_A_10) Verifica che sia indicato che il metodo di posa della parete sarà in conformità alla norma di posa.
+- CC_A_11) Verifica che sia indicato che il metodo di posa della parete sarà in conformità alla norma di posa.
 
  Normativa di riferimento: UNI 11424:2015
 
-- CC_A_11) Verifica che siano indicate le tolleranze dimensionali in mm della parete.
+- CC_A_12) Verifica che siano indicate le tolleranze dimensionali in mm della parete.
 
  Normativa di riferimento: /
 
+ - CC_A_13) Verifica che siano indicate le tolleranze dimensionali in mm della parete.
+
+  Normativa di riferimento: /
+
+  - CC_A_14) Verifica che siano indicate le tolleranze dimensionali in mm della parete.
+
+   Normativa di riferimento: /
+
+   - CC_A_15) Verifica che siano indicate le tolleranze dimensionali in mm della parete.
+
+    Normativa di riferimento: /
 
 ###### Controlli sulle lastre in cartongesso:
 
@@ -67,7 +82,7 @@
 
  Normativa di riferimento: /
 
-- CC_B_05) Verifica che sia indicata la densità della lastra.
+- CC_B_05) Verifica che sia la densità della lastra.
 
  Normativa di riferimento: /
 
