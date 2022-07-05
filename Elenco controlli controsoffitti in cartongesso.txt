@@ -10,7 +10,7 @@
 
 - CC_A_02) Verifica che siano indicate le dimensioni del controsoffitto (lunghezza, larghezza e altezza).
 
- Normativa di riferimento: /
+ Normativa di riferimento: / 
 
 - CC_A_03) Verifica che siano indicate le proprietà acustiche della parete.
 
