@@ -145,23 +145,19 @@
 
   Normativa di riferimento: /
 
-- CC_D_04) Verifica che sia indicata la resistenza alla diffusione del vapore dell'isolante.
-
-  Normativa di riferimento: EN ISO10456:2008
-
-- CC_D_05) Verifica che sia indicata la permeabilità al vapore dell'isolante.
+- CC_D_04) Verifica che sia indicata la permeabilità al vapore dell'isolante.
 
   Normativa di riferimento: EN 12086
 
-- CC_D_06) Verifica che sia indicata la classe di reazione al fuoco dell'isolante.
+- CC_D_05) Verifica che sia indicata la classe di reazione al fuoco dell'isolante.
 
   Normativa di riferimento: EN 13501-1:2018
 
-- CC_D_07) Verifica che siano indicate la conducibilità e la resistenza termica dell'isolante.
+- CC_D_06) Verifica che siano indicate la conducibilità e la resistenza termica dell'isolante.
 
   Normativa di riferimento: EN 12667, EN12939
 
-- CC_D_08) Verifica che sia indicato l'assorbimento d'acqua dell'isolante.
+- CC_D_07) Verifica che sia indicato l'assorbimento d'acqua dell'isolante.
 
   Normativa di riferimento: EN 1609, EN 12087
 
